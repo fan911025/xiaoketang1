@@ -68,7 +68,7 @@
 .content{
     float: left;
     width: 100%;
-    padding-bottom: 30vw;
+    padding-bottom: 10vw;
     background-color:#69D1E9;
         }
 .vote{
@@ -115,7 +115,10 @@
     font-size: 1.5rem;
     line-height: 55px;
     width: 90%;	
-    background-color: #FBB435; 
+    background-color: #FBB435;
+    color: #FFF;
+    outline:medium;
+    border:none;  
        }
 .select{
     width: 88px;
